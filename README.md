@@ -1,6 +1,6 @@
 ### Hi there, I'm Shehara Hansani 👋
 
-Third-year Computer Engineering undergraduate at the Faculty of Engineering, University of Sri Jayewardenepura, specializing in **Embedded Systems**, **IoT Engineering**, or **Hardware/Firmware Development**. Hands-on experience with STM32, ESP32, and Arduino microcontrollers, custom PCB schematic capture and layout, real-time wireless telemetry protocols (LoRa, MQTT), and firmware programming in **C/C++**.
+Third-year Computer Engineering undergraduate at the Faculty of Engineering, University of Sri Jayewardenepura, specializing in **Embedded Systems**, **IoT Engineering**, and **Hardware/Firmware Development**. Hands-on experience with STM32, ESP32, and Arduino microcontrollers, custom PCB schematic capture and layout, real-time wireless telemetry protocols (LoRa, MQTT), and firmware programming in **C/C++**.
 
 ---
 
